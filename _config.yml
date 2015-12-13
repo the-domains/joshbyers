@@ -1,7 +1,7 @@
 name: joshbyers
 favicon: null
 layout_spectrum: 0.08786833030171692
-typography_spectrum: 0.5173475204501301
+typography_spectrum: 0.36932
 title: Josh Byers
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.2683946534525603
+  brandStrength: 0.1875
   lightness: 0.3769981204532087
   saturation: 0.6969343586824834
   rhythmicContrast: 0.10574911418370903
