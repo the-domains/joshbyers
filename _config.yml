@@ -1,0 +1,29 @@
+name: joshbyers
+favicon: null
+layout_spectrum: 0.08786833030171692
+typography_spectrum: 0.5173475204501301
+title: Josh Byers
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2683946534525603
+  lightness: 0.3769981204532087
+  saturation: 0.6969343586824834
+  rhythmicContrast: 0.10574911418370903
+purpose: []
