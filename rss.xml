@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Josh Byers]]></title>
         <description><![CDATA[Josh Byers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joshbyers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 16:39:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 16:42:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joshbyers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87997b21-e0b2-4aca-99f1-ad1f2424b2af.png">]]></description>
+            <link>https://thegrid.ai/joshbyers/0c6dc0e9-bd4a-465c-b40e-23d7b0e7da5d/index.html</link>
+            <guid isPermaLink="false">0c6dc0e9-bd4a-465c-b40e-23d7b0e7da5d</guid>
+            <pubDate>Fri, 04 Mar 2016 16:41:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apple Has A Liberty Problem]]></title>
             <description><![CDATA[<article><h1>Apple Has A Liberty Problem</h1><p>Recently Apple and the iPhone have grabbed all the headlines again. But this time there is no sleek new design or killer innovative new feature. On February 16, Tim Cook, the CEO at Apple wrote a letter to their customers to tell them that the government is trying to forcibly coerce them to create a new version of iOS.</p></article>]]></description>
-            <link>undefinedapple-has-a-liberty-problem/index.html</link>
+            <link>https://thegrid.ai/joshbyers/apple-has-a-liberty-problem/index.html</link>
             <guid isPermaLink="false">a0f8f8b0-0f51-43e7-a4c1-9bca47d3f966</guid>
             <pubDate>Fri, 04 Mar 2016 16:39:26 GMT</pubDate>
         </item>
