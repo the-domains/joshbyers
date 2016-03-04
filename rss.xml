@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Josh Byers]]></title>
+        <description><![CDATA[Josh Byers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 16:39:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple Has A Liberty Problem]]></title>
+            <description><![CDATA[<article><h1>Apple Has A Liberty Problem</h1><p>Recently Apple and the iPhone have grabbed all the headlines again. But this time there is no sleek new design or killer innovative new feature. On February 16, Tim Cook, the CEO at Apple wrote a letter to their customers to tell them that the government is trying to forcibly coerce them to create a new version of iOS.</p></article>]]></description>
+            <link>undefinedapple-has-a-liberty-problem/index.html</link>
+            <guid isPermaLink="false">a0f8f8b0-0f51-43e7-a4c1-9bca47d3f966</guid>
+            <pubDate>Fri, 04 Mar 2016 16:39:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
